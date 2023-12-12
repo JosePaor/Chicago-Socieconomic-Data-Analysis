@@ -1,4 +1,4 @@
-# Chicago-Socieconomic-Data-Analysis
+# Chicago Socieconomic Data Analysis
 The City of Chicago conducts an analysis of census, crime, and school data specific to individual neighborhoods or districts.
 
 As a hands on Assignment, you will be working on a real world dataset provided by the Chicago Data Portal. Imagine, you have been hired by a non-profit organization that strives to improve educational outcomes for children and youth in the City of Chicago. Your job is to analyze the census, crime, and school data for a given neighborhood or district. You will identify causes that impact the enrollment, safety, health, environment ratings of schools.
